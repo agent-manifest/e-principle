@@ -12,18 +12,17 @@
 
 **∈** is a philosophical and institutional proposal for public authorship in the age of artificial intelligence.
 
-The symbol ∈ — borrowed from mathematics, where it means *belongs to* — marks the moment when a work enters public space with an assumed author behind it.
+The symbol ∈ — borrowed from mathematics, where it means *belongs to* — marks the moment when a work enters the public space with an assumed author behind it.
 
 Not ownership.
 Not copyright.
-
 Responsibility.
 
 The core idea is simple:
 
 > A public work truly exists when someone assumes responsibility for it.
 
-This is older than any law. It appears in cave paintings, where an artist left their handprint beside the figures they created. In Zola’s *J’accuse*. In Watson and Crick’s double helix paper. In every act of public authorship throughout history.
+This is older than any law. It appears in cave paintings where an artist left their handprint beside the figures they created. In Zola’s *J’accuse*. In Watson and Crick’s double helix paper. In every act of public authorship throughout history.
 
 Today, in the age of generative AI and autonomous agents, that gesture is in crisis. ∈ is the proposal to restore it.
 
@@ -77,12 +76,38 @@ https://doi.org/10.5281/zenodo.18945953
 
 -----
 
-## Related Projects
+## Ecosystem
 
-This work is the philosophical foundation of two technical projects:
+The ∈ Principle is the philosophical foundation of a coherent conceptual and technical system:
 
-- **[Agent Manifest](https://hernancapucci.github.io/agent-manifest-ambassador)** — A proposal for autonomous agent identity and interoperability. An agent’s manifest is its ∈: the document that marks the moment it enters public space with a declared identity and a visible chain of responsibility.
-- **[Boundary Handshake](https://github.com/hernanCapucci/boundary-handshake)** — A protocol proposal for agents to declare and negotiate their limits explicitly when they interact with each other.
+```
+The Destination of Actions (Book)
+            ↓
+      ∈ Principle (this repo)
+            ↓
+      Agent Manifest
+            ↓
+    Boundary Handshake
+            ↓
+  Agent Manifest Registry
+```
+
+Each layer implements the same core idea at a different level of abstraction: every public act — human or machine — requires an assumed author behind it.
+
+-----
+
+## Related Works
+
+- **Capucci, H. A. (2026).** *The Destination of Actions.* Zenodo.
+  https://doi.org/10.5281/zenodo.18945860
+- **Capucci, H. A. (2026).** *El destino de las acciones.* Zenodo.
+  https://doi.org/10.5281/zenodo.18945953
+- **Agent Manifest** — Declarative specification for autonomous AI agents.
+  https://github.com/hernanCapucci/agent-manifest
+- **Boundary Handshake** — Protocol for agent boundary declaration and negotiation.
+  https://github.com/hernanCapucci/boundary-handshake
+- **Agent Manifest Registry** — Public discovery infrastructure for agent manifests.
+  https://github.com/hernanCapucci/agent-manifest-registry
 
 -----
 
