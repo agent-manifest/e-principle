@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it using the metadata below."
+title: "The Destination of Actions — Public responsibility in the age of artificial intelligence"
+authors:
+  - family-names: Capucci
+    given-names: Hernán Alfredo
+    orcid: "https://orcid.org/0009-0008-7216-3032"
+date-released: "2026-03-11"
+version: "1.0"
+doi: "10.5281/zenodo.18945860"
+url: "https://zenodo.org/records/18945860"
+license: CC-BY-4.0
+type: book
+abstract: >
+  ∈ (The Destination of Actions) introduces a philosophical and institutional
+  proposal for public authorship in the age of artificial intelligence.
+  It argues that every public act requires an explicit gesture of assumed
+  responsibility — a principle formalized through the mathematical symbol ∈
+  (belongs to). The book traces this idea from historical gestures of authorship
+  to the emerging challenge of autonomous AI agents, and proposes ∈ as the
+  foundation of a new institution of public responsibility.
+keywords:
+  - authorship
+  - public responsibility
+  - AI governance
+  - AI accountability
+  - Agent Manifest
+  - autonomous agents
+  - digital institutions
+  - philosophy of AI
+related-resources:
+  - type: url
+    value: "https://zenodo.org/records/18945953"
+    description: "Spanish version — El destino de las acciones (DOI: 10.5281/zenodo.18945953)"
