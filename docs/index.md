@@ -1,7 +1,7 @@
------
-
-## title: “∈ Principle — The Destination of Actions”
-
+---
+title: "∈ Principle"
+layout: default
+---
 # The ∈ Principle
 
 ## Definition
