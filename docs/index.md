@@ -2,7 +2,7 @@
 
 ## Definition
 
-A public work exists when its author assumes responsibility for it.
+A public work truly exists when someone assumes responsibility for it.
 
 The symbol **∈** marks that gesture of assumption.
 
@@ -62,10 +62,16 @@ Two sentences. No exceptions. This is the founding gesture.
 
 ## Related Works
 
-- **Book (EN):** [The Destination of Actions](https://zenodo.org/records/18945860) — DOI: 10.5281/zenodo.18945860
-- **Book (ES):** [El destino de las acciones](https://zenodo.org/records/18945953) — DOI: 10.5281/zenodo.18945953
-- **Agent Manifest:** [hernancapucci.github.io/agent-manifest-ambassador](https://hernancapucci.github.io/agent-manifest-ambassador)
-- **Boundary Handshake:** [github.com/hernanCapucci/boundary-handshake](https://github.com/hernanCapucci/boundary-handshake)
+- **Capucci, H. A. (2026).** *The Destination of Actions.* Zenodo.
+  https://doi.org/10.5281/zenodo.18945860
+- **Capucci, H. A. (2026).** *El destino de las acciones.* Zenodo.
+  https://doi.org/10.5281/zenodo.18945953
+- **Agent Manifest** — Declarative specification for AI agents.
+  https://github.com/hernanCapucci/agent-manifest
+- **Boundary Handshake** — Protocol for agent boundary declaration.
+  https://github.com/hernanCapucci/boundary-handshake
+- **Agent Manifest Registry** — Public discovery infrastructure for agent manifests.
+  https://github.com/hernanCapucci/agent-manifest-registry
 
 -----
 
