@@ -1,3 +1,7 @@
+-----
+
+## title: “∈ Principle — The Destination of Actions”
+
 # The ∈ Principle
 
 ## Definition
