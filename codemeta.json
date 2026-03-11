@@ -1,0 +1,38 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "CreativeWork",
+  "name": "∈ Principle",
+  "version": "1.0",
+  "datePublished": "2026-03-11",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "identifier": "https://doi.org/10.5281/zenodo.18965669",
+  "description": "The ∈ Principle introduces a philosophical and institutional proposal for public authorship in the age of artificial intelligence. The symbol ∈ marks the moment when a work enters the public sphere with an explicitly assumed author behind it.",
+  "author": {
+    "@type": "Person",
+    "givenName": "Hernán Alfredo",
+    "familyName": "Capucci",
+    "identifier": "https://orcid.org/0009-0008-7216-3032"
+  },
+  "keywords": [
+    "authorship",
+    "public responsibility",
+    "AI governance",
+    "AI accountability",
+    "Agent Manifest",
+    "autonomous agents",
+    "digital institutions"
+  ],
+  "isBasedOn": [
+    {
+      "@type": "CreativeWork",
+      "name": "The Destination of Actions",
+      "identifier": "https://doi.org/10.5281/zenodo.18945860"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "El destino de las acciones",
+      "identifier": "https://doi.org/10.5281/zenodo.18945953"
+    }
+  ],
+  "codeRepository": "https://github.com/hernancapucci/e-principle"
+}
