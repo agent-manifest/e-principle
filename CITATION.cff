@@ -1,10 +1,14 @@
 cff-version: 1.2.0
-message: "If you use or reference this work, please cite it using the metadata below."
+message: "If you use or reference the ∈ Principle, please cite it using the metadata below."
 
 title: "∈ Principle"
-type: software
+type: generic
 version: "1.0"
-date-released: 2026-03-11
+date-released: "2026-03-11"
+
+doi: 10.5281/zenodo.18965669
+url: https://doi.org/10.5281/zenodo.18965669
+
 license: CC-BY-4.0
 
 authors:
@@ -13,25 +17,34 @@ authors:
     orcid: https://orcid.org/0009-0008-7216-3032
 
 abstract: >
-  The ∈ Principle establishes a minimal rule for public authorship.
-  A public work exists when its author explicitly assumes responsibility for it.
-  The symbol ∈ marks that gesture of assumption. The repository contains the
-  foundational definition of the principle and its relation to emerging
-  governance frameworks for artificial intelligence.
+  The ∈ Principle introduces a philosophical and institutional proposal
+  for public authorship in the age of artificial intelligence. The symbol ∈
+  marks the moment when a work enters the public sphere with an explicitly
+  assumed author behind it. The principle extends from historical acts of
+  authorship to the emerging challenge of autonomous AI agents.
 
 keywords:
   - authorship
-  - responsibility
+  - public responsibility
   - AI governance
-  - public accountability
-  - agent manifest
+  - AI accountability
+  - autonomous agents
+  - Agent Manifest
   - digital institutions
 
 references:
   - type: book
     title: "The Destination of Actions"
     doi: 10.5281/zenodo.18945860
+    authors:
+      - family-names: Capucci
+        given-names: Hernán Alfredo
+    year: 2026
 
   - type: book
     title: "El destino de las acciones"
     doi: 10.5281/zenodo.18945953
+    authors:
+      - family-names: Capucci
+        given-names: Hernán Alfredo
+    year: 2026
