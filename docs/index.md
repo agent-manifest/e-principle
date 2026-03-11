@@ -1,7 +1,3 @@
----
-title: "∈ Principle"
-layout: default
----
 # The ∈ Principle
 
 ## Definition
