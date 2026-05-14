@@ -138,11 +138,11 @@ Together they form a coherent system for responsibility in the age of autonomous
 - Capucci, H. A. (2026). *El destino de las acciones.*
   https://doi.org/10.5281/zenodo.18945953
 - **Agent Manifest** — Declarative specification for autonomous AI agents
-  https://github.com/hernancapucci/agent-manifest
+  https://github.com/agent-manifest/agent-manifest
 - **Boundary Handshake** — Protocol for agent boundary declaration and negotiation
-  https://github.com/hernancapucci/boundary-handshake
+  https://github.com/agent-manifest/boundary-handshake
 - **Agent Manifest Registry** — Public discovery infrastructure for agent manifests
-  https://github.com/hernancapucci/agent-manifest-registry
+  https://github.com/agent-manifest/agent-manifest-registry
 
 -----
 
