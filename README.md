@@ -164,3 +164,17 @@ ORCID: https://orcid.org/0009-0008-7216-3032
 -----
 
 *∈ Document Series · 2026*
+
+---
+
+**Part of the [Agent Manifest](https://agent-manifest-spec.org) ecosystem**
+
+[Spec](https://github.com/agent-manifest/agent-manifest) ·
+[Registry](https://github.com/agent-manifest/agent-manifest-registry) ·
+[Dataset](https://github.com/agent-manifest/agent-manifest-dataset) ·
+[Ambassador](https://github.com/agent-manifest/agent-manifest-ambassador) ·
+[Diplomat](https://github.com/agent-manifest/agent-manifest-diplomat) ·
+[Boundary Handshake](https://github.com/agent-manifest/boundary-handshake) ·
+[∈ Principle](https://github.com/agent-manifest/e-principle)
+
+CC BY 4.0 · Hernán Alfredo Capucci · [ORCID 0009-0008-7216-3032](https://orcid.org/0009-0008-7216-3032)
