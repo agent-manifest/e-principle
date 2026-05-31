@@ -1,0 +1,51 @@
+# ∈ Principle
+
+A philosophical foundation for public responsibility in the age of generative
+and autonomous systems.
+
+## Canonical URL
+
+https://agent-manifest.github.io/e-principle/
+
+## Source repository
+
+https://github.com/agent-manifest/e-principle
+
+## Identifiers
+
+- Repo DOI:      https://doi.org/10.5281/zenodo.18965669
+- Book (EN) DOI: https://doi.org/10.5281/zenodo.18945860
+- Book (ES) DOI: https://doi.org/10.5281/zenodo.18945953
+- Version:       1.0
+- License:       CC BY 4.0
+- Author:        Hernán Alfredo Capucci
+- ORCID:         https://orcid.org/0009-0008-7216-3032
+
+## Core doctrine
+
+∈ Principle is a philosophical foundation for public responsibility in the age
+of generative and autonomous systems.
+It is not copyright, not a digital signature, and not a quality seal.
+
+A work ∈ when:
+1. it has an identifiable author who assumes it publicly,
+2. that author is willing to answer for its content,
+3. the act of assumption is explicit and verifiable.
+
+## What ∈ is not
+
+- Not copyright. It protects nothing. It only establishes something.
+- Not a digital signature. It does not verify identity: it declares intention.
+- Not a quality seal. A work can ∈ and be wrong.
+
+## Relationship to Agent Manifest
+
+∈ Principle is conceptually related to Agent Manifest but remains an
+independent philosophical and foundational work. Agent Manifest extends
+the ∈ framework into the domain of autonomous AI agents by requiring an
+explicit declaration before execution.
+
+## Citation
+
+Capucci, H. A. (2026). ∈ Principle. Zenodo.
+https://doi.org/10.5281/zenodo.18965669
