@@ -67,11 +67,11 @@ Two sentences. No exceptions. This is the founding gesture.
 - **Capucci, H. A. (2026).** *El destino de las acciones.* Zenodo.
   https://doi.org/10.5281/zenodo.18945953
 - **Agent Manifest** — Declarative specification for AI agents.
-  https://github.com/hernanCapucci/agent-manifest
+  https://github.com/agent-manifest/agent-manifest
 - **Boundary Handshake** — Protocol for agent boundary declaration.
-  https://github.com/hernanCapucci/boundary-handshake
+  https://github.com/agent-manifest/boundary-handshake
 - **Agent Manifest Registry** — Public discovery infrastructure for agent manifests.
-  https://github.com/hernanCapucci/agent-manifest-registry
+  https://github.com/agent-manifest/agent-manifest-registry
 
 -----
 
