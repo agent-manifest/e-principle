@@ -70,11 +70,23 @@ e-principle/
 ├── CITATION.cff
 ├── CHANGELOG.md
 ├── LICENSE
+├── codemeta.json
+├── _config.yml
 ├── book/
-│   ├── destination-of-actions-en.pdf
-│   └── destino-de-las-acciones-es.pdf
+│   ├── ∈ The Destination of Actions 2026.pdf
+│   └── ∈ El destino de las acciones 2026.pdf
 └── docs/
-    └── e-principle.md
+    ├── _includes/
+    │   └── head-custom.html
+    ├── citation.md
+    ├── e-principle.md
+    ├── index.html
+    ├── llms.txt
+    ├── robots.txt
+    ├── favicon.ico
+    ├── favicon-32x32.png
+    ├── apple-touch-icon.png
+    └── og-image.png
 ```
 
 -----
