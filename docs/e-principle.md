@@ -68,7 +68,7 @@ Two sentences. No exceptions. This is the founding gesture.
   https://doi.org/10.5281/zenodo.18945953
 - **Agent Manifest** — Declarative specification for AI agents.
   https://github.com/agent-manifest/agent-manifest
-- **Boundary Handshake** — Protocol for agent boundary declaration.
+- **Boundary Handshake** — Conceptual framework for agent boundary declaration.
   https://github.com/agent-manifest/boundary-handshake
 - **Agent Manifest Registry** — Public discovery infrastructure for agent manifests.
   https://github.com/agent-manifest/agent-manifest-registry
