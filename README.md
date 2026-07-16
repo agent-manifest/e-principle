@@ -55,7 +55,7 @@ It states that every public act — human or artificial — should be accompanie
 In this sense, the ∈ Principle forms the philosophical foundation for several technical initiatives:
 
 - **Agent Manifest** — declarative identity layer for autonomous AI agents
-- **Boundary Handshake** — protocol for negotiation between autonomous systems
+- **Boundary Handshake** — conceptual framework for declared interaction between autonomous systems
 - **Agent Manifest Registry** — public discovery infrastructure for agent manifests
 
 Each of these systems operationalizes the same core idea: that public actions must belong to someone willing to stand behind them.
@@ -117,29 +117,15 @@ https://doi.org/10.5281/zenodo.18945953
 
 ## Conceptual Ecosystem
 
-The ∈ Principle sits at the center of a layered conceptual architecture.
+The ∈ Principle is part of a family of independent works that share one idea: public actions must belong to someone willing to stand behind them.
 
-```
-The Destination of Actions (Book)
-            ↓
-      ∈ Principle
-            ↓
-      Agent Manifest
-            ↓
-    Boundary Handshake
-            ↓
-  Agent Manifest Registry
-```
+- *The Destination of Actions* (book) — the philosophical foundation
+- **∈ Principle** — the institutional principle
+- **Agent Manifest** — an independent declarative specification for AI agents
+- **Boundary Handshake** — a conceptual framework for declared agent interaction
+- **Agent Manifest Registry** — public discovery infrastructure for agent manifests
 
-Each layer implements the same idea at a different level:
-
-- philosophy
-- institutional principle
-- technical specification
-- operational protocol
-- public infrastructure
-
-Together they form a coherent system for responsibility in the age of autonomous agents.
+Each work expresses the same idea at a different level and stands on its own; none is a layer or component of another.
 
 -----
 
@@ -151,7 +137,7 @@ Together they form a coherent system for responsibility in the age of autonomous
   https://doi.org/10.5281/zenodo.18945953
 - **Agent Manifest** — Declarative specification for autonomous AI agents
   https://github.com/agent-manifest/agent-manifest
-- **Boundary Handshake** — Protocol for agent boundary declaration and negotiation
+- **Boundary Handshake** — Conceptual framework for agent boundary declaration and negotiation
   https://github.com/agent-manifest/boundary-handshake
 - **Agent Manifest Registry** — Public discovery infrastructure for agent manifests
   https://github.com/agent-manifest/agent-manifest-registry
